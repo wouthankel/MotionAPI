@@ -49,4 +49,4 @@ if bContinue == True:
     StartDate = datetime.now() + timedelta(days=1)
     TaskName = input("Task name:")
     if CreateTask(ApiKey, WorkspaceIDAPI, ProjectIDAPI, UserIDAPI, TaskName, StartDate):
-        print("\033[92mTaak toegevoegd!: " + TaskName + "\033[0m")
+        print("\033[92mTask added!: " + TaskName + "\033[0m")
