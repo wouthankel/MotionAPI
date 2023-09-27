@@ -1,4 +1,11 @@
-# MotionAPI
-This is a Python example of the API from UseMotion.com.
+| :information_source: Information |
+|:---------------------------|
+| Im still learning Python. No guarantee this works out-of-the-box. |
 
-Simply input your API key, and use the script to automate your daily tasks.
+## Versioning
+| Version | Description | Date |
+| - | - | - |
+| 1.0.0   | Initial release | 2023/09/27 |
+
+## Introduction
+This is a basic python script to connect to the UseMotion.com API. Edit and use it to your own needs.
