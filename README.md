@@ -1,6 +1,7 @@
 | :information_source: Information |
 |:---------------------------|
-| Im still learning Python. No guarantee this works out-of-the-box. |
+| Im still learning Python. No guarantee this works out-of-the-box.
+This is my first-ever-made API :) |
 
 ## Versioning
 | Version | Description | Date |
